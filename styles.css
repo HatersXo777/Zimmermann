@@ -18,7 +18,7 @@ a{color:inherit}
 .btn.sm{min-height:44px;padding:10px 20px;font-size:15px;width:100%}
 /* hero */
 .hero{position:relative;min-height:100svh;display:flex;flex-direction:column;isolation:isolate;overflow:hidden;background:var(--sand)}
-.hero-bg{position:absolute;inset:0;z-index:-1;background:var(--sand) url(/img/dobra1.jpg) center/cover;opacity:.22}
+.hero-bg{position:absolute;inset:0;z-index:-1;background:var(--sand) url(/dobra1.jpg) center/cover;opacity:.22}
 .hero header{padding:18px 0}
 .hero-in{flex:1;display:flex;flex-direction:column;justify-content:center;align-items:center;text-align:center;padding:24px 20px 56px;max-width:720px;margin:0 auto}
 .hero h1{font-size:clamp(2.1rem,8.5vw,3.6rem);margin-bottom:18px}
